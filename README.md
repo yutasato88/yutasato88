@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name **YutaSato** / **レイドー・サトリア**
+- Name **YutaSato** / **ブラック・ジャック**
 
 - Live in **South Sumatra, Indonesia**
 
