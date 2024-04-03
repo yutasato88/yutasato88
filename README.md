@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
-<img src="./img/Repo-elaina.png" width="488" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpUTEJpXXgLMrBfFj2i9oQ8ag6tYKrwUFKOw-_5VQTXu8q_lXiO8cycbqqPG-CV-1N7rMvZpxf0jc-wSDrOGaUEARkxIaJEfcyYpKVFcpDtsuSxOgrXhLhF3f8YzyabwyIvj97Gpb774jvAZtIIkp7o0SidHCq1_0GrsEyGf6wAZza-qkRNJD7bCmijA9Y/s16000/myrepoyuta.png" width="488" />
 <br/>
 <br/>
   
@@ -32,7 +32,7 @@
   Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
 
   
-<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEB-U2hQO7XNeWhcWUljYaE3dSw_56RQVqmbtUdoGeI6hE26Aw_u2gtCeuvS4_LxFn6jtX7SGE_AA4irK4c1c-QQj1KlG4Ls5LAsjNoeK1tuR9akV1zRK-FzwwY1RkJeLyUPvhY4A_3k-9h6IAYTXvh6529Sm1wB8feqjU7hsBdLlRXbmp_jshINDHoVAB/s16000/11c7793e79556d71454645c538c45740.jpg" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
