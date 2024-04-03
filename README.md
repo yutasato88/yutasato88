@@ -34,7 +34,7 @@
   
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEB-U2hQO7XNeWhcWUljYaE3dSw_56RQVqmbtUdoGeI6hE26Aw_u2gtCeuvS4_LxFn6jtX7SGE_AA4irK4c1c-QQj1KlG4Ls5LAsjNoeK1tuR9akV1zRK-FzwwY1RkJeLyUPvhY4A_3k-9h6IAYTXvh6529Sm1wB8feqjU7hsBdLlRXbmp_jshINDHoVAB/s16000/11c7793e79556d71454645c538c45740.jpg" width="270" align="right" />
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2W_kEaZlQ7vO7mmlqM53EOxVr1bGqqoIzwOgdPxrfhOC_bl6wpARyYSKPpd8T08Y2yrQFi5fX2mE-KwLNE_nwzmsO78ZRExpOwltzBR5AoS1NCDq_40p91h3HsmvGKKtxQ9I8QcOkkxj6A4N7rTv-4_DF664rE6NwE5g4ibQNvEta4fEh2DVK8vgj_cd/s16000/banner-yuta.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
