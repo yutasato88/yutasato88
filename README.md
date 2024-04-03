@@ -28,8 +28,8 @@
 <br/>
 <br/>
   
-- 📗 [***YutaSato88/Killer-Ddos***](https://github.com/elliottophellia/aizawa) <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
+- 📙 [***YutaSato88/Killer-Ddos***](https://github.com/elliottophellia/aizawa) <br/>
+  Kamu Bisa Mencoba Tools Ddos Yang Mematikan Ini. Terdapat Banyak Method Layer7, Layer4 Dll.
 
   
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEB-U2hQO7XNeWhcWUljYaE3dSw_56RQVqmbtUdoGeI6hE26Aw_u2gtCeuvS4_LxFn6jtX7SGE_AA4irK4c1c-QQj1KlG4Ls5LAsjNoeK1tuR9akV1zRK-FzwwY1RkJeLyUPvhY4A_3k-9h6IAYTXvh6529Sm1wB8feqjU7hsBdLlRXbmp_jshINDHoVAB/s16000/11c7793e79556d71454645c538c45740.jpg" width="270" align="right" />
