@@ -28,7 +28,7 @@
 <br/>
 <br/>
   
-- 📙 [***YutaSato88/Killer-Ddos***](https://github.com/elliottophellia/aizawa) <br/>
+- 📙 [***YutaSato88/Killer-Ddos***](https://github.com/yutasato88/Killer-Ddos.git) <br/>
   Kamu Bisa Mencoba Tools Ddos Yang Mematikan Ini. Terdapat Banyak Method Layer7, Layer4 Dll.
 
   
